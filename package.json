@@ -9,7 +9,7 @@
 	"devDependencies": {
 		"@sveltejs/adapter-node": "next",
 		"@sveltejs/kit": "next",
-		"layercake": "^4.0.4",
+		"layercake": "^4.1.0",
 		"svelte": "^3.29.0",
 		"vite": "^2.1.0"
 	},
