@@ -1,5 +1,9 @@
 <script>
+  // import { LayerCake } from "layercake";
+  // import LayerCake from "layercake/src/LayerCake.svelte";
+  // import { LayerCake } from "$lib/layercake";
   import Chart from "$lib/Chart.svelte";
+
   import Counter from "$lib/Counter.svelte";
 </script>
 

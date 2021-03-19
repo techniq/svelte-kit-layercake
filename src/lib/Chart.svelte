@@ -1,5 +1,8 @@
 <script>
-  import { LayerCake, Svg } from "layercake";
+  // import { LayerCake, Svg } from "layercake";
+  // import LayerCake from "layercake/src/LayerCake.svelte";
+  // import Svg from "layercake/src/layouts/Svg.svelte";
+  import { LayerCake, Svg } from "$lib/layercake";
 
   import Line from "./Line.svelte";
   import Area from "./Area.svelte";
